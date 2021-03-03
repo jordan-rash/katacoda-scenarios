@@ -1,0 +1,26 @@
+{
+  "noindex": true,
+  "title": "Wash REPL Introduction",
+  "description": "Familization of Wash REPL UI",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "credits": ""
+    }
+  },
+  "files": [],
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
