@@ -5,13 +5,13 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "foreground": "foreground.sh"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "background": "background.sh",
-      "credits": ""
+      "background": "background.sh"
     },
     "assets": {
       "client": [
