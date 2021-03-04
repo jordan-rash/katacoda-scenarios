@@ -5,13 +5,21 @@
     "steps": [
       {
         "title": "Step 1",
-        "courseData": "background.sh",
         "text": "step1.md"
       }
     ],
     "intro": {
       "text": "intro.md",
+      "background": "background.sh",
       "credits": ""
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ]
     }
   },
   "files": [],
