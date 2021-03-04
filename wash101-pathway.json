@@ -6,8 +6,7 @@
     {
       "title": "Wash 101 - REPL Introduction",
       "description": "Introduction to wasmcloud REPL",
-      "course_id": "repl-intro",
-      "pathway_id": "wash101"
+      "course_id": "repl-intro"
     }
   ]
 }

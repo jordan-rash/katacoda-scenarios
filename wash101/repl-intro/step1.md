@@ -2,6 +2,7 @@
 `wash` has multiple subcommands, each specializing in one specific area of the wasmcloud development process.
 ### claims
 Generate JWTs for actors, capability providers, accounts and operators. Sign actor modules with claims including capability IDs, expiration, and keys to verify identity. Inspect actor modules to view their claims.
+
 ### ctl
 Interact directly with a wasmcloud [control-interface](https://github.com/wasmcloud/wasmcloud/tree/main/crates/control-interface), allowing you to imperatively schedule actors, providers and modify configurations of a wasmcloud host. Can be used to interact with local and remote control-interfaces.
 ### drain
