@@ -6,12 +6,12 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "foreground": "foreground.sh",
-        "background": "background.sh"
+        "foreground": "foreground.sh"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "foreground": "background.sh"
     },
     "assets": {
       "client": [
