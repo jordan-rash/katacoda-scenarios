@@ -11,7 +11,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "foreground": "background.sh"
+      "background": "background.sh"
     },
     "assets": {
       "client": [
