@@ -5,12 +5,12 @@
     "steps": [
       {
         "title": "Step 1",
+        "courseData": "background.sh",
         "text": "step1.md"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "background.sh",
       "credits": ""
     }
   },
@@ -20,6 +20,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu:1804"
   }
 }
